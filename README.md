@@ -16,6 +16,28 @@ During my training, I’ve gained experience with tools like **SQL, Chrome DevTo
 # CV 
 You can download my CV as a pdf from my <a href="https://docs.google.com/document/d/1j9QinwoZ8K-ntymsei4hTiu9kFAyx2YOP3E6pzIcgj8/edit?usp=sharing" target="_blank">Google Drive</a>
 
+# Sample Documentation 
+<br>**Case Study Analysis**
+<br><a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
+<br>** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
+
+**Test Cases**
+1. <a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
+<br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
+<br>This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
+
+2. <a href="https://docs.google.com/spreadsheets/d/1q6gom9jaUOrtjBtcVaH_ROIZ5kvdnLIyIowbZOMj2L8/edit?usp=sharing" target="_blank">Charles Schwab</a>
+<br>TEST SCENARIO:
+<br>
+
+3. <a href="https://docs.google.com/spreadsheets/d/1101rWMSlsgDUtrz0CAIjR6uly4OB3vGn60ywW2-Tlvc/edit?usp=sharing" target="_blank">Hulu</a>
+<br>TEST SCENARIO:
+<br>
+
+**Test Plan**
+<br><a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target="_blank"> CareConnect: Patient Portal</a>
+<br>This is a hypothetical test plan for an EMR system. 
+
 # Skills
 **Manual Testing**
 - Proficient in performing manual functional and usability testing of web applications.
@@ -46,35 +68,38 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 **Curiosity-Driven Problem Solving**
 - Always eager to dive deeper into issues, leveraging curiosity to identify root causes and innovative solutions.
 
-
 # Tools 
+I have hands-on experience with the following tools, which I use to enhance the QA process:
 
-# Sample Documentation 
+**Jira**
+- Proficient in creating detailed bug reports and tracking issues through their lifecycle.
+- Experienced in setting up projects, organizing tasks, and monitoring progress using Jira's features.
+ 
+**Trello**
+- Skilled in utilizing Kanban boards to manage tasks and track project progress efficiently.
 
-**Case Study Analysis**
-<br><a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
-<br>** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
+**Postman**
+- Experienced in creating and executing API test cases.
+- Familiar with manipulating API requests and analyzing responses for comprehensive testing.
 
-**Test Cases**
-1. <a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
-<br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
-<br>This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
+**Selenium**
+- Capable of automating web application tests using Selenium.
+- Proficient in writing scripts to perform repetitive testing tasks and validating web functionalities.
 
-2. <a href="https://docs.google.com/spreadsheets/d/1q6gom9jaUOrtjBtcVaH_ROIZ5kvdnLIyIowbZOMj2L8/edit?usp=sharing" target="_blank">Charles Schwab</a>
-<br>TEST SCENARIO:
-<br>
+**SQL**
+- Adept at writing complex SQL queries to validate data integrity and perform backend testing.
+- Familiar with database management and using SQL for effective data validation.
 
-3. <a href="https://docs.google.com/spreadsheets/d/1101rWMSlsgDUtrz0CAIjR6uly4OB3vGn60ywW2-Tlvc/edit?usp=sharing" target="_blank">Hulu</a>
-<br>TEST SCENARIO:
-<br>
+**Browserstack**
+- Skilled in cross-browser testing using Browserstack to ensure consistent functionality across different environments.
 
-**Test Plan**
-<br><a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target="_blank"> CareConnect: Patient Portal</a>
-<br>This is a hypothetical test plan for an EMR system. 
+**Gherkin + Cucumber**
+- Familiar with writing clear, understandable test scenarios using Gherkin syntax.
+- Experienced in using Cucumber for behavior-driven development (BDD) to enhance collaboration between technical and non-technical team members.
 
 # Courses & Certifications 
 **QA Testing Course** (in Spanish)
-<br>Prof. Heison Moreno 
+<br>Prof. <a href="https://www.linkedin.com/in/heisonmoreno/" target="_blank">Heison Moreno</a> 
 <br>In this course, we learned: 
 - Fundamentals of Testing
 - Test Design & Execution
