@@ -19,7 +19,7 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 # Sample Documentation 
 <br>**Case Study Analysis**
 <br><a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
-<br>** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
+<br>*This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a>*
 
 **Test Cases**
 1. <a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
