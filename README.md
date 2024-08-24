@@ -17,6 +17,35 @@ During my training, I’ve gained experience with tools like **SQL, Chrome DevTo
 You can download my CV as a pdf from my <a href="https://docs.google.com/document/d/1j9QinwoZ8K-ntymsei4hTiu9kFAyx2YOP3E6pzIcgj8/edit?usp=sharing" target="_blank">Google Drive</a>
 
 # Skills
+**Manual Testing**
+- Proficient in performing manual functional and usability testing of web applications.
+- Gained practical experience through testing educational project applications.
+
+**Test Analysis & Design**
+- Skilled in breaking down product functionality, creating state transition diagrams, and writing detailed use cases.
+- Capable of applying techniques like equivalence partitioning, boundary value analysis, and pairwise testing to generate effective test inputs.
+
+**API Testing**
+- Familiar with the differences between SOAP and REST APIs.
+- Hands-on experience in manual API testing, utilizing tools like Postman to create and manipulate test cases.
+
+**Exploratory Testing**
+- Adept at using techniques like Whittaker’s test tours and creating testing checklists for web applications.
+
+**Test Documentation**
+- Experienced in creating detailed test cases and checklists, tailored for different testing scenarios.
+- Able to prepare comprehensive bug reports and provide clear, concise session summaries.
+
+**SQL Databases**
+- Proficient in writing complex SQL queries, including subqueries.
+- Familiar with using aliases, wildcards, and understanding the distinctions between joins and unions for effective database querying.
+
+**HTML, CSS, and JavaScript Basics**
+- Basic understanding of HTML, CSS, and JavaScript, with the ability to analyze and test front-end components.
+
+**Curiosity-Driven Problem Solving**
+- Always eager to dive deeper into issues, leveraging curiosity to identify root causes and innovative solutions.
+
 
 # Tools 
 
@@ -27,9 +56,17 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 <br>** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
 
 **Test Cases**
-<br><a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
-<br>_Test Scenario:_ Comprehensive Validation of the Online Booking System for The National Theatre Website.
+1. <a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
+<br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
 <br>This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
+
+2. <a href="https://docs.google.com/spreadsheets/d/1q6gom9jaUOrtjBtcVaH_ROIZ5kvdnLIyIowbZOMj2L8/edit?usp=sharing" target="_blank">Charles Schwab</a>
+<br>TEST SCENARIO:
+<br>
+
+3. <a href="https://docs.google.com/spreadsheets/d/1101rWMSlsgDUtrz0CAIjR6uly4OB3vGn60ywW2-Tlvc/edit?usp=sharing" target="_blank">Hulu</a>
+<br>TEST SCENARIO:
+<br>
 
 **Test Plan**
 <br><a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target="_blank"> CareConnect: Patient Portal</a>
@@ -38,7 +75,7 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 # Courses & Certifications 
 **QA Testing Course** (in Spanish)
 <br>Prof. Heison Moreno 
-<br>In this course, we learned the following: 
+<br>In this course, we learned: 
 - Fundamentals of Testing
 - Test Design & Execution
 - Defect Reporting & Management
