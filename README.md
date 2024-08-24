@@ -3,7 +3,7 @@
 **ABOUT ME**
 <br>Professionaly, I’ve had the opportunity to explore different careers, from videography to ESL teaching, but now I’m ready for a new challenge. **Driven by curiosity and a thirst for knowledge,** I wanted a profession that would allow me to **constantly develop new skills** while leveraging my talent for spotting errors. That’s how I found my way into the world of **Quality Assurance.**
 
-**_Why do I love being a software tester?_** 
+**Why do I love being a software tester?** 
 <br>As a software tester, I get to be a **champion of excellence**. I love the endless opportunities to spot typos, logical errors, and areas where functionality can be improved. The role also allows me to tap into my **creativity**—I’m always on the lookout for new ways to "break" software or test it in unconventional ways. My **empathy** also plays a big part in my work; I strive to see the software through the eyes of the end-user and write test cases that are easy for my colleagues to follow.
 
 I'm **excited** to transition into **Quality Assurance** because it taps into my strengths in **attention to detail, problem-solving, and clear communication.** My background as an ESL teacher and videographer has given me the ability to **stay organized** and **provide constructive feedback** – skills that I believe are essential for QA testing.
