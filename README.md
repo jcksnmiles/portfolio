@@ -19,27 +19,31 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 # Sample Documentation 
 
 **Case Study Analysis**
-<a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
-
-** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
+<br><a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
+<br>** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
 
 **Test Cases**
-
-<a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
-
-_Test Scenario:_ Comprehensive Validation of the Online Booking System for The National Theatre Website.
-
-This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
+<br><a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
+<br>_Test Scenario:_ Comprehensive Validation of the Online Booking System for The National Theatre Website.
+<br>This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
 
 **Test Plan**
-
-<a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target="_blank"> CareConnect: Patient Portal</a>
-
-This is a hypothetical test plan for an EMR system. 
+<br><a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target="_blank"> CareConnect: Patient Portal</a>
+<br>This is a hypothetical test plan for an EMR system. 
 
 # Courses & Certifications 
-Responsive Web Design 
-freeCodeCamp 
+**QA Testing Course** (in Spanish)
+<br>Prof. Heison Moreno 
+<br>In this course, we learned the following: 
+- Fundamentals of Testing
+- Test Design & Execution
+- Defect Reporting & Management
+- Agile Methodologies (Scrum/Kanban)
+- Testing Automation
+- Mobile, Web, & API Testing
 
-Fundamentals of Digital Marketing
-Google Digital Garage
+**Responsive Web Design** 
+<br>freeCodeCamp 
+
+**Fundamentals of Digital Marketing** 
+<br>Google Digital Garage
