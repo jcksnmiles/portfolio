@@ -9,3 +9,7 @@ I’ve had a few vastly different jobs (videography, ESL teaching) and decided i
 **What are my skills?** 
 During my training process, I have learned **SQL, Chrome DevTools, Jira, Confluence, Postman,** and **HTML/CSS and JavaScript** basics.
 
+# CV 
+You can download my CV as a pdf from my <a href="https://docs.google.com/document/d/1j9QinwoZ8K-ntymsei4hTiu9kFAyx2YOP3E6pzIcgj8/edit?usp=sharing">Google Drive</a>
+
+# Skills
