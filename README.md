@@ -19,12 +19,13 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 # Sample Documentation 
 
 **Case Study Analysis**
-<a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target=_"blank">MediLink EMR System</a>
+<a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
 
-** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target=_"blank">https://www.kostcare.com/case_study_healthcare</a> **
+** This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a> **
 
 **Test Cases**
-1. <a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target=_"blank"> The National Theatre</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
 
 _Test Scenario:_ Comprehensive Validation of the Online Booking System for The National Theatre Website.
 
@@ -32,7 +33,8 @@ This test scenario involves verifying that users can smoothly and accurately com
 
 **Test Plan**
 
-<a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target=_"blank"> CareConnect: Patient Portal</a>
+<a href="https://docs.google.com/document/d/1cV1mT3A7L-W9IMZvjKvjpYLel8prJwcw9-HI8r4iWLk/edit?usp=sharing" target="_blank"> CareConnect: Patient Portal</a>
+
 This is a hypothetical test plan for an EMR system. 
 
 # Courses & Certifications 
