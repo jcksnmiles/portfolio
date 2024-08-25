@@ -13,10 +13,10 @@ I'm **excited** to transition into **Quality Assurance** because it taps into my
 **What are my skills?** 
 During my training, I’ve gained experience with tools like **SQL, Chrome DevTools, Jira, Confluence, Postman,** and the basics of **HTML, CSS, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
 
-# CV 
+## CV 
 You can download my CV as a pdf from my <a href="https://docs.google.com/document/d/1j9QinwoZ8K-ntymsei4hTiu9kFAyx2YOP3E6pzIcgj8/edit?usp=sharing" target="_blank">Google Drive</a>
 
-# Sample Documentation 
+## Sample Documentation 
 <br>**Case Study Analysis**
 <br><a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
 <br>*This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a>*
@@ -42,7 +42,7 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 
 **Test Report**
 
-# Skills
+## Skills
 **Manual Testing**
 - Proficient in performing manual functional and usability testing of web applications.
 - Gained practical experience through testing educational project applications.
@@ -72,7 +72,7 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 **Curiosity-Driven Problem Solving**
 - Always eager to dive deeper into issues, leveraging curiosity to identify root causes and innovative solutions.
 
-# Tools 
+## Tools 
 I have hands-on experience with the following tools, which I use to enhance the QA process:
 
 **Jira**
@@ -101,7 +101,7 @@ I have hands-on experience with the following tools, which I use to enhance the 
 - Familiar with writing clear, understandable test scenarios using Gherkin syntax.
 - Experienced in using Cucumber for behavior-driven development (BDD) to enhance collaboration between technical and non-technical team members.
 
-# Courses & Certifications 
+## Courses & Certifications 
 **QA Testing Course** (in Spanish)
 <br>Prof. <a href="https://www.linkedin.com/in/heisonmoreno/" target="_blank">Heison Moreno</a> 
 <br>In this course, we learned: 
