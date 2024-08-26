@@ -14,7 +14,7 @@ I'm **excited** to transition into **Quality Assurance** because it taps into my
 During my training, I’ve gained experience with tools like **SQL, Chrome DevTools, Jira, Confluence, Postman,** and the basics of **HTML, CSS, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
 
 ## CV 
-You can download my CV as a pdf from my <a href="https://docs.google.com/document/d/1j9QinwoZ8K-ntymsei4hTiu9kFAyx2YOP3E6pzIcgj8/edit?usp=sharing" target="_blank">Google Drive</a>
+You can download my CV as a pdf from my <a href="https://docs.google.com/document/d/117gNPC8xurzcTBsQYL1WYmhQJU3VhxGWNp9mLzi5ZaM/edit?usp=sharing" target="_blank">Google Drive</a>
 
 ## Sample Documentation 
 <br>**Case Study Analysis**
@@ -28,7 +28,7 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 **Test Cases**
 1. <a href="https://docs.google.com/spreadsheets/d/1dKYxR1ICImuAcfk6Uwk42Ug9glBIyHWM23_Tl1jC8BI/edit?usp=sharing" target="_blank"> The National Theatre</a>
 <br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
-<br>This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
+   - This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
 
 **Bug Report**
 <br>COMING SOON 
