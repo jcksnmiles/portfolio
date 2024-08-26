@@ -107,8 +107,10 @@ I have hands-on experience with the following tools, which I use to enhance the 
 - Mobile, Web, & API Testing
 
 **TestAutomationU**
-<br> I'm continuing my studies into test automation! See my certifications and learning paths below!
-<br><a href="https://testautomationu.applitools.com/me.html#jcksnmiles" target="_blank">TestAutomationU Profile</a>
+<br> I'm continuing my studies in test automation! See my certifications and learning paths <a href="https://testautomationu.applitools.com/me.html#jcksnmiles" target="_blank">here</a>!
+
+1. **Setting a Foundation for Successful Test Automation** - <a href="https://testautomationu.applitools.com/certificate/?id=deb0b51a" target="_blank">Certificate link</a>
+2. **The Whole Team Approach to Continuous Testing** - <a href="https://testautomationu.applitools.com/certificate/?id=22e8cb00" target="_blank">Certificate link</a>
 
 **Responsive Web Design** 
 <br>freeCodeCamp 
