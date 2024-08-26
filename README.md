@@ -30,17 +30,11 @@ You can download my CV as a pdf from my <a href="https://docs.google.com/documen
 <br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
 <br>This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
 
-2. <a href="https://docs.google.com/spreadsheets/d/1q6gom9jaUOrtjBtcVaH_ROIZ5kvdnLIyIowbZOMj2L8/edit?usp=sharing" target="_blank">Charles Schwab</a>
-<br>TEST SCENARIO:
-<br>
-
-3. <a href="https://docs.google.com/spreadsheets/d/1101rWMSlsgDUtrz0CAIjR6uly4OB3vGn60ywW2-Tlvc/edit?usp=sharing" target="_blank">Hulu</a>
-<br>TEST SCENARIO:
-<br>
-
 **Bug Report**
+<br>COMING SOON 
 
 **Test Report**
+<br>COMING SOON
 
 ## Skills
 **Manual Testing**
@@ -113,7 +107,7 @@ I have hands-on experience with the following tools, which I use to enhance the 
 - Mobile, Web, & API Testing
 
 **TestAutomationU**
-<br> I'm continuing my studies into test automation! See my certifications and learning path below!
+<br> I'm continuing my studies into test automation! See my certifications and learning paths below!
 <br><a href="https://testautomationu.applitools.com/me.html#jcksnmiles" target="_blank">TestAutomationU Profile</a>
 
 **Responsive Web Design** 
