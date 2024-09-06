@@ -72,6 +72,14 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 **Curiosity-Driven Problem Solving**
 - Always eager to dive deeper into issues, leveraging curiosity to identify root causes and innovative solutions.
 
+**_Transferrable Skills From Previous Roles_**
+- **Attention to Detail**
+   - Developed through videography, where precision in editing and shooting is crucial, and in ESL teaching, where clarity and correctness are key.
+- **Communication & Feedback**
+   - Enhanced through years of teaching, providing clear, actionable feedback to students, skills that translate directly into effective bug reporting and collaboration with development teams.
+- **Creative Problem Solving**
+   - Leveraged in creating unique, engaging lesson plans and shooting scripts, which now helps me think outside the box when designing test cases and identifying potential software issues.
+
 ## Tools 
 I have hands-on experience with the following tools, which I use to enhance the QA process:
 
@@ -123,3 +131,8 @@ I have hands-on experience with the following tools, which I use to enhance the 
 
 **Fundamentals of Digital Marketing** 
 <br>Google Digital Garage
+
+## Additional Links
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/jcksnmiles" rel="nofollow noreferrer">LinkedIn</a> 
+<br><img src="https://i.sstatic.net/tskMh.png" alt="github"> <a href="https://github.com/jcksnmiles" rel="nofollow noreferrer">GitHub</a>
+<br>📄 [CV](https://github.com/user-attachments/files/16909927/JMilesCV.pdf)
