@@ -22,10 +22,10 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 <br>*This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a>*
 
 **Test Plans**
-<br>[American School e-Learning Platform](https://github.com/user-attachments/files/17018988/Test.Plan_.American.School.1.pdf)
+1. [American School e-Learning Platform](https://github.com/user-attachments/files/17018988/Test.Plan_.American.School.1.pdf)
 <br> I developed a comprehensive test plan for an e-learning platform that offers exam preparation courses for non-native English speakers, including TOEFL iBT, TOEIC, SAT, GRE, GMAT, IELTS, and Duolingo. The test plan outlined the testing strategy, scope, objectives, and execution approach. It covered key functionalities such as content delivery (text, video, audio, quizzes), speaking and writing submission features, user role management, and performance testing. My plan also ensured cross-browser compatibility, responsiveness on mobile devices, and provided a structured defect management process using Jira.
 
-[CareConnect: Patient Portal](https://github.com/user-attachments/files/17019010/Test.Plan_.CareConnect.Patient.Portal.1.pdf)
+2. [CareConnect: Patient Portal](https://github.com/user-attachments/files/17019010/Test.Plan_.CareConnect.Patient.Portal.1.pdf)
 <br>I created a comprehensive, **hypothetical** test plan for the CareConnect Patient Portal, a web-based healthcare application. The plan outlined testing strategies for key functionalities, including appointment scheduling, secure messaging, medical record access, and telehealth consultations. I developed test cases for unit, integration, and system testing, ensuring HIPAA compliance and secure data handling. The plan also includes performance testing, user acceptance testing (UAT), and regression testing. This would ensure a seamless, secure, and user-friendly experience for both patients and healthcare providers.
 
 **Test Cases**
