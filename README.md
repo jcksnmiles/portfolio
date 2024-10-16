@@ -139,4 +139,5 @@ I have hands-on experience with the following tools, which I use to enhance the 
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/jcksnmiles" rel="nofollow noreferrer">LinkedIn</a> 
 <br><img src="https://i.sstatic.net/tskMh.png" alt="github"> <a href="https://github.com/jcksnmiles" rel="nofollow noreferrer">GitHub</a>
 <br>📧 [Email](mailto:jcksnbmiles@gmail.com)
-<br>📄 [CV](https://github.com/user-attachments/files/16909927/JMilesCV.pdf)
+<br>📄 [CV](https://github.com/user-attachments/files/17402191/JacksonMilesCV.pdf)
+
