@@ -14,7 +14,7 @@ I'm **excited** to transition into **Quality Assurance** because it taps into my
 During my training, I’ve gained experience with tools like **SQL, Chrome DevTools, Jira, Confluence, Postman,** and the basics of **HTML, CSS, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
 
 ## CV 
-You can download my CV as a pdf [here](https://github.com/user-attachments/files/16909927/JMilesCV.pdf).
+You can download my CV as a pdf [here](https://github.com/user-attachments/files/17402121/JacksonMilesCV.pdf).
 
 ## Sample Documentation 
 **Case Study Analysis**
