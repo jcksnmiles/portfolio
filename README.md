@@ -14,7 +14,7 @@ I'm **excited** to transition into **Quality Assurance** because it taps into my
 During my training, I’ve gained experience with tools like **SQL, Chrome DevTools, Jira, Confluence, Postman,** and the basics of **HTML, CSS, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
 
 ## CV 
-You can download my CV as a pdf [here](https://github.com/user-attachments/files/17402121/JacksonMilesCV.pdf).
+You can download my CV as a pdf [here](https://github.com/user-attachments/files/17688859/JacksonMilesCV.pdf).
 
 ## Sample Documentation 
 **Case Study Analysis**
@@ -23,7 +23,7 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 
 **Test Plans**
 1. [American School e-Learning Platform](https://github.com/user-attachments/files/17018988/Test.Plan_.American.School.1.pdf)
-<br> I developed a comprehensive test plan for an e-learning platform that offers exam preparation courses for non-native English speakers, including TOEFL iBT, TOEIC, SAT, GRE, GMAT, IELTS, and Duolingo. The test plan outlined the testing strategy, scope, objectives, and execution approach. It covered key functionalities such as content delivery (text, video, audio, quizzes), speaking and writing submission features, user role management, and performance testing. My plan also ensured cross-browser compatibility, responsiveness on mobile devices, and provided a structured defect management process using Jira.
+<br> I developed a comprehensive test plan for an e-learning platform that offers exam preparation courses for non-native English speakers, including TOEFL iBT, TOEIC, SAT, GRE, GMAT, IELTS, and Duolingo. The test plan outlined the testing strategy, scope, objectives, and execution approach. It covered key functionalities such as content delivery (text, video, audio, quizzes), speaking and writing submission features, user role management, and performance testing. My plan also ensured cross-browser compatibility and responsiveness on mobile devices and provided a structured defect management process using Jira.
 
 2. [CareConnect: Patient Portal](https://github.com/user-attachments/files/17019010/Test.Plan_.CareConnect.Patient.Portal.1.pdf)
 <br>I created a comprehensive, **hypothetical** test plan for the CareConnect Patient Portal, a web-based healthcare application. The plan outlined testing strategies for key functionalities, including appointment scheduling, secure messaging, medical record access, and telehealth consultations. I developed test cases for unit, integration, and system testing, ensuring HIPAA compliance and secure data handling. The plan also includes performance testing, user acceptance testing (UAT), and regression testing. This would ensure a seamless, secure, and user-friendly experience for both patients and healthcare providers.
@@ -139,5 +139,4 @@ I have hands-on experience with the following tools, which I use to enhance the 
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/jcksnmiles" rel="nofollow noreferrer">LinkedIn</a> 
 <br><img src="https://i.sstatic.net/tskMh.png" alt="github"> <a href="https://github.com/jcksnmiles" rel="nofollow noreferrer">GitHub</a>
 <br>📧 [Email](mailto:jcksnbmiles@gmail.com)
-<br>📄 [CV](https://github.com/user-attachments/files/17402191/JacksonMilesCV.pdf)
-
+<br>📄 [CV](https://github.com/user-attachments/files/17688859/JacksonMilesCV.pdf)
