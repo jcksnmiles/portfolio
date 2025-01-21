@@ -33,12 +33,6 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 <br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
    - This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
 
-**Bug Report**
-<br>COMING SOON 
-
-**Test Report**
-<br>COMING SOON
-
 ## Projects
 **1. Personal QA Learning Roadmap** (Trello)
 <br><img width="540" height="304" alt="Screenshot 2024-09-06 at 3 23 19 PM" src="https://github.com/user-attachments/assets/ade02284-48f9-45be-8e89-7666776a0113"/>
