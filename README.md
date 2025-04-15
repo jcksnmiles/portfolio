@@ -11,10 +11,10 @@ I'm **excited** to transition into **Quality Assurance** because it taps into my
 **What really draws me to this field** is the challenge and satisfaction of ensuring high-quality software. I’m also looking for a role that offers flexibility and stability, allowing me to maintain a healthy work-life balance while continuing to grow in my career. I’m **eager to bring my curiosity and commitment** to quality to a QA team. 
 
 **What are my skills?** 
-During my training, I’ve gained experience with tools like **SQL, Chrome DevTools, Jira, Confluence, Postman,** and the basics of **HTML, CSS, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
+During my training, I’ve gained experience with tools like **Chrome DevTools, Jira, and Confluence,** and the basics of **HTML, CSS, SQL, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
 
 ## CV 
-You can download my CV as a pdf [here](https://github.com/user-attachments/files/18443562/JacksonMilesCV.pdf).
+You can download my CV as a pdf [here](https://github.com/user-attachments/files/19763965/JacksonMilesCV.pdf).
 
 ## Sample Documentation 
 **Case Study Analysis**
@@ -34,7 +34,23 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
    - This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
 
 ## Projects
-**1. Personal QA Learning Roadmap** (Trello)
+**1. Muso-Method Web App**
+<br><img width="540" height="304" alt="Screenshot 2025-04-15 at 9 12 48 PM" src="https://github.com/user-attachments/assets/687ba096-0284-4f2e-aa26-d86a4758b602" />
+<br>**Description**: This project simulates end-to-end Quality Assurance testing for Muso-Method, a self-guided web platform designed to teach classical music through interactive lessons. As part of my QA Analyst/Engineer portfolio, I designed and executed test strategies across core user flows—sign-up, navigation, lesson playback, and account management—focusing on usability, functionality, and edge-case handling.
+
+Test documentation includes structured user stories, tasks, test cases, and detailed bug reports modeled after real-world team workflows in Jira. Testing is ongoing and based on black-box exploratory techniques with a strong emphasis on UX clarity, validation, and functional integrity.
+<br>**Impact (In Progress):**
+* Developed and executed 10 test cases across 4 major user flows.
+* Identified 8 edge cases to uncover hidden usability or logic issues.
+* Designed for team-ready integration with Jira, making this a realistic, production-style QA sample.
+  <br><img width="540" height="304" alt="Screenshot 2025-04-14 at 7 27 09 PM" src="https://github.com/user-attachments/assets/c4cdb32a-0225-440d-8c11-19eac7f1029e" />
+* Logged real bugs found during testing, including validation failures and UI behavior inconsistencies.
+<video width="640" height="360" controls>
+  <source src="[media/my-video.mp4](https://github.com/user-attachments/assets/edf02951-435d-4c11-9d64-0a37dbe53f61)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**2. Personal QA Learning Roadmap** (Trello)
 <br><img width="540" height="304" alt="Screenshot 2024-09-06 at 3 23 19 PM" src="https://github.com/user-attachments/assets/ade02284-48f9-45be-8e89-7666776a0113"/>
 <br>**Description**: Developed a <a href="https://trello.com/invite/b/6672d6f1462b1617cd5c8c79/ATTIfa5fba288bfd1cd8d640dfa7ef7d3b3bC2D2910D/qa-testing-course" target="_blank">structured learning roadmap</a> for QA fundamentals, testing methodologies, and tools, completed within 5 weeks.
 <br>**Impact**: Accelerated my understanding of QA concepts and tools, leading to a successful career transition and practical application in freelance testing roles.
@@ -48,10 +64,6 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 - Skilled in breaking down product functionality, creating state transition diagrams, and writing detailed use cases.
 - Capable of applying techniques like equivalence partitioning, boundary value analysis, and pairwise testing to generate effective test inputs.
 
-**API Testing**
-- Familiar with the differences between SOAP and REST APIs.
-- Hands-on experience in manual API testing, utilizing tools like Postman to create and manipulate test cases.
-
 **Exploratory Testing**
 - Adept at using techniques like Whittaker’s test tours and creating testing checklists for web applications.
 
@@ -60,8 +72,9 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 - Able to prepare comprehensive bug reports and provide clear, concise session summaries.
 
 **SQL Databases**
-- Proficient in writing complex SQL queries, including subqueries.
-- Familiar with using aliases, wildcards, and understanding the distinctions between joins and unions for effective database querying.
+- Familiar with writing SQL queries, including: 
+   - SELECT, WHERE, COUNT, JOINs, ORDER BY, GROUP BY, Sub-Queries
+   - Arithmetic, Comparison, and Logical Operators 
 
 **HTML, CSS, and JavaScript Basics**
 - Basic understanding of HTML, CSS, and JavaScript, with the ability to analyze and test front-end components.
@@ -87,16 +100,12 @@ I have hands-on experience with the following tools, which I use to enhance the 
 **Trello**
 - Skilled in utilizing Kanban boards to manage tasks and track project progress efficiently.
 
-**Postman**
-- Experienced in creating and executing API test cases.
-- Familiar with manipulating API requests and analyzing responses for comprehensive testing.
-
 **Selenium**
 - Capable of automating web application tests using Selenium.
 - Proficient in writing scripts to perform repetitive testing tasks and validating web functionalities.
 
 **SQL**
-- Adept at writing complex SQL queries to validate data integrity and perform backend testing.
+- Adept at writing simple SQL queries to validate data integrity and perform backend testing.
 - Familiar with database management and using SQL for effective data validation.
 
 **Browserstack**
@@ -107,6 +116,8 @@ I have hands-on experience with the following tools, which I use to enhance the 
 - Experienced in using Cucumber for behavior-driven development (BDD) to enhance collaboration between technical and non-technical team members.
 
 ## Courses & Certifications 
+**ISTQB CTFL** Certified Tester Foundation Level - (in progress, scheduled for April 2025)
+
 **QA Testing Course** (in Spanish)
 <br>Prof. <a href="https://www.linkedin.com/in/heisonmoreno/" target="_blank">Heison Moreno</a> 
 <br>In this course, we learned: 
@@ -122,6 +133,8 @@ I have hands-on experience with the following tools, which I use to enhance the 
 
 1. **Setting a Foundation for Successful Test Automation** - <a href="https://testautomationu.applitools.com/certificate/?id=deb0b51a" target="_blank">Certificate link</a>
 2. **The Whole Team Approach to Continuous Testing** - <a href="https://testautomationu.applitools.com/certificate/?id=22e8cb00" target="_blank">Certificate link</a>
+3. **API Test Automation with Postman** - (in progress)
+4. **Codeless Test Automation with Selenium IDE** - (in progress)
 
 **Responsive Web Design** 
 <br>freeCodeCamp 
@@ -133,4 +146,5 @@ I have hands-on experience with the following tools, which I use to enhance the 
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/jcksnmiles" rel="nofollow noreferrer">LinkedIn</a> 
 <br><img src="https://i.sstatic.net/tskMh.png" alt="github"> <a href="https://github.com/jcksnmiles" rel="nofollow noreferrer">GitHub</a>
 <br>📧 [Email](mailto:jcksnbmiles@gmail.com)
-<br>📄 [CV](https://github.com/user-attachments/files/18443562/JacksonMilesCV.pdf)
+<br>📄 [CV](https://github.com/user-attachments/files/19763981/JacksonMilesCV.pdf)
+
