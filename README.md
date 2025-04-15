@@ -39,6 +39,7 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 <br>**Description**: This project simulates end-to-end Quality Assurance testing for Muso-Method, a self-guided web platform designed to teach classical music through interactive lessons. As part of my QA Analyst/Engineer portfolio, I designed and executed test strategies across core user flows—sign-up, navigation, lesson playback, and account management—focusing on usability, functionality, and edge-case handling.
 
 Test documentation includes structured user stories, tasks, test cases, and detailed bug reports modeled after real-world team workflows in Jira. Testing is ongoing and based on black-box exploratory techniques with a strong emphasis on UX clarity, validation, and functional integrity.
+
 <br>**Impact (In Progress):**
 * Developed and executed 10 test cases across 4 major user flows.
 * Identified 8 edge cases to uncover hidden usability or logic issues.
