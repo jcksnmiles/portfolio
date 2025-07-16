@@ -101,7 +101,7 @@ Test documentation includes structured user stories, tasks, test cases, and deta
 ## ADDITIONAL LINKS
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/jcksnmiles" rel="nofollow noreferrer">LinkedIn</a> 
 <br><img src="https://i.sstatic.net/tskMh.png" alt="github"> <a href="https://github.com/jcksnmiles" rel="nofollow noreferrer">GitHub</a>
-<br><img width="14" height="14" alt="icon-color (1)" src="https://github.com/user-attachments/assets/832203ce-a7e9-4d0a-89c2-562a1f6def8b"/> <a href="https://jcksnmiles. carrd.co/" rel="nofollow noreferrer">Caard</a>
+<br><img width="14" height="14" alt="icon-color (1)" src="https://github.com/user-attachments/assets/832203ce-a7e9-4d0a-89c2-562a1f6def8b"/> <a href="https://jcksnmiles.carrd.co/">Caard</a>
 <br>📧 [Email](mailto:jcksnbmiles@gmail.com)
 <br>📄 [CV](https://github.com/user-attachments/files/21264182/JacksonMilesCV.pdf)
 
