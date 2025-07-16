@@ -1,22 +1,16 @@
-# Portfolio
+# PORTFOLIO
 
-**ABOUT ME**
-<br>Professionally, I’ve had the opportunity to explore different careers, from videography to ESL teaching, but now I’m ready for a new challenge. **Driven by curiosity and a thirst for knowledge,** I wanted a profession that would allow me to **constantly develop new skills** while leveraging my talent for spotting errors. That’s how I found my way into the world of **Quality Assurance.**
+**About Me**
+<br>I’m a QA Analyst with 2+ years of experience ensuring the quality and stability of 20+ applications across industries like FinTech, e-commerce, and MedTech. My approach blends meticulous testing with clear, detailed documentation; from test cases and bug reports to reproducible steps and process notes, all aimed at improving product reliability and team efficiency.
 
-**Why do I love being a software tester?** 
-<br>As a software tester, I get to be a **champion of excellence**. I love the endless opportunities to spot typos, logical errors, and areas where functionality can be improved. The role also allows me to tap into my **creativity**—I’m always on the lookout for new ways to "break" software or test it in unconventional ways. My **empathy** also plays a big part in my work; I strive to see the software through the eyes of the end-user and write test cases that are easy for my colleagues to follow.
+I’ve worked across globally distributed teams, collaborated with developers and PMs, and contributed to multiple full test cycles, including exploratory, functional, regression, and API testing. I’m comfortable in both manual and automated testing environments, with growing fluency in Playwright, Selenium, and Postman.
 
-I'm **excited** to transition into **Quality Assurance** because it taps into my strengths in **attention to detail, problem-solving, and clear communication.** My background as an ESL teacher and videographer has given me the ability to **stay organized** and **provide constructive feedback** – skills that I believe are essential for QA testing.
-
-**What really draws me to this field** is the challenge and satisfaction of ensuring high-quality software. I’m also looking for a role that offers flexibility and stability, allowing me to maintain a healthy work-life balance while continuing to grow in my career. I’m **eager to bring my curiosity and commitment** to quality to a QA team. 
-
-**What are my skills?** 
-During my training, I’ve gained experience with tools like **Chrome DevTools, Jira, and Confluence,** and the basics of **HTML, CSS, SQL, and JavaScript.** I’m eager to bring my **curiosity and commitment to quality** to a QA team, where I can continue to learn and contribute meaningfully.
+With a background in education and strong communication skills in both English and Spanish, I’m always focused on clarity, precision, and improving user experience, whether through finding a critical bug or refining a test flow.
 
 ## CV 
-You can download my CV as a pdf [here](https://github.com/user-attachments/files/19763965/JacksonMilesCV.pdf).
+You can download my CV as a PDF [here](https://github.com/user-attachments/files/21264182/JacksonMilesCV.pdf).
 
-## Sample Documentation 
+## SAMPLE DOCUMENTATION 
 **Case Study Analysis**
 <br><a href="https://docs.google.com/document/d/1TPTgKSka5zFdngJpCqRETo3rdXfy1chCTJx3nCayf-s/edit?usp=sharing" target="_blank">MediLink EMR System</a>
 <br>*This case study comes from KostCare Canada Corporation: <a href="https://www.kostcare.com/case_study_healthcare" target="_blank">https://www.kostcare.com/case_study_healthcare</a>*
@@ -33,14 +27,14 @@ You can download my CV as a pdf [here](https://github.com/user-attachments/files
 <br>TEST SCENARIO: Comprehensive Validation of the Online Booking System for The National Theatre Website.
    - This test scenario involves verifying that users can smoothly and accurately complete the booking process for events on The National Theatre's website. It ensures that the system correctly handles date selection, ticket quantity input, payment processing, email notifications, and cross-browser compatibility. Additionally, the scenario assesses the system's performance under load, the end-to-end user experience, and usability on mobile devices.
 
-## Projects
+## PROJECTS
 **1. Muso-Method Web App**
 <br><img width="540" height="304" alt="Screenshot 2025-04-15 at 9 12 48 PM" src="https://github.com/user-attachments/assets/687ba096-0284-4f2e-aa26-d86a4758b602" />
 <br>**Description**: This project simulates end-to-end Quality Assurance testing for Muso-Method, a self-guided web platform designed to teach classical music through interactive lessons. As part of my QA Analyst/Engineer portfolio, I designed and executed test strategies across core user flows—sign-up, navigation, lesson playback, and account management—focusing on usability, functionality, and edge-case handling.
 
 Test documentation includes structured user stories, tasks, test cases, and detailed bug reports modeled after real-world team workflows in Jira. Testing is ongoing and based on black-box exploratory techniques with a strong emphasis on UX clarity, validation, and functional integrity.
 
-<br>**Impact (In Progress):**
+<br>**Impact:**
 * Developed and executed 10 test cases across 4 major user flows.
 * Identified 8 edge cases to uncover hidden usability or logic issues.
 * Designed for team-ready integration with Jira, making this a realistic, production-style QA sample.
@@ -56,68 +50,37 @@ Test documentation includes structured user stories, tasks, test cases, and deta
 <br>**Description**: Developed a <a href="https://trello.com/invite/b/6672d6f1462b1617cd5c8c79/ATTIfa5fba288bfd1cd8d640dfa7ef7d3b3bC2D2910D/qa-testing-course" target="_blank">structured learning roadmap</a> for QA fundamentals, testing methodologies, and tools, completed within 5 weeks.
 <br>**Impact**: Accelerated my understanding of QA concepts and tools, leading to a successful career transition and practical application in freelance testing roles.
 
-## Skills
-**Manual Testing**
-- Proficient in performing manual functional and usability testing of web applications.
-- Gained practical experience through testing educational project applications.
+## SKILLS
+**Testing**: Manual & Automated Testing, Functional, Regression, Exploratory, Usability
+<br>**Documentation**: Test Plans, Test Cases, Repro Steps, Internal SOPs, Release Notes
+<br>**Bug Tracking & Collaboration**: Jira, Confluence, GitHub, Notion, Trello, Google Suite
+<br>**Automation & API Testing**: Playwright, Selenium, Postman, REST APIs, TestRail
+<br>**Programming**: TypeScript, JavaScript, SQL (Intermediate); Python (Beginner)
+<br>**Writing & Communication**: Clear technical writing, cross-functional collaboration, bilingual support
+<br>**Development Methodologies**: Agile (Scrum, Kanban), Waterfall, TDD/BDD (Cucumber, Gherkin)
 
-**Test Analysis & Design**
-- Skilled in breaking down product functionality, creating state transition diagrams, and writing detailed use cases.
-- Capable of applying techniques like equivalence partitioning, boundary value analysis, and pairwise testing to generate effective test inputs.
+## TOOLS 
+**Automation & Testing**: Playwright, Selenium, Postman, TestRail, BrowserStack
+<br>**Project Management**: Jira, Trello, Notion, Google Suite
+<br>**Documentation**: Confluence, GitHub Wiki, Notion, Markdown, Google Docs
+<br>**Code & Version Control**: GitHub, Git, VS Code
 
-**Exploratory Testing**
-- Adept at using techniques like Whittaker’s test tours and creating testing checklists for web applications.
+## COURSES & CERTIFICATIONS
+**ISTQB CTFL** Certified Tester Foundation Level - (in progress, scheduled for August 2025)
 
-**Test Documentation**
-- Experienced in creating detailed test cases and checklists, tailored for different testing scenarios.
-- Able to prepare comprehensive bug reports and provide clear, concise session summaries.
+**CodeSignal**
+<br>**Mastering Test Automation with Playwright and TypeScript** (Path)
+- [Exploring Playwright and TypeScript Essentials](https://github.com/user-attachments/files/21263783/PlaywrightEssentials.pdf)
+- [Advanced Playwright Techniques and Navigation](https://github.com/user-attachments/files/21263789/AdvancedPlaywright.pdf)
+- [Mastering Test Patterns with Playwright](https://github.com/user-attachments/files/21263796/MasteringTestPatterns.pdf)
+- [Building Comprehensive E-commerce Tests with Playwright](https://github.com/user-attachments/files/21263799/BuildingComprehensiveE-commerceTests.pdf)
+- Bridging Playwright with API Testing
 
-**SQL Databases**
-- Familiar with writing SQL queries, including: 
-   - SELECT, WHERE, COUNT, JOINs, ORDER BY, GROUP BY, Sub-Queries
-   - Arithmetic, Comparison, and Logical Operators 
-
-**HTML, CSS, and JavaScript Basics**
-- Basic understanding of HTML, CSS, and JavaScript, with the ability to analyze and test front-end components.
-
-**Curiosity-Driven Problem Solving**
-- Always eager to dive deeper into issues, leveraging curiosity to identify root causes and innovative solutions.
-
-**_Transferrable Skills From Previous Roles_**
-- **Attention to Detail**
-   - Developed through videography, where precision in editing and shooting is crucial, and in ESL teaching, where clarity and correctness are key.
-- **Communication & Feedback**
-   - Enhanced through years of teaching, providing clear, actionable feedback to students, skills that translate directly into effective bug reporting and collaboration with development teams.
-- **Creative Problem Solving**
-   - Leveraged in creating unique, engaging lesson plans and shooting scripts, which now helps me think outside the box when designing test cases and identifying potential software issues.
-
-## Tools 
-I have hands-on experience with the following tools, which I use to enhance the QA process:
-
-**Jira**
-- Proficient in creating detailed bug reports and tracking issues through their lifecycle.
-- Experienced in setting up projects, organizing tasks, and monitoring progress using Jira's features.
- 
-**Trello**
-- Skilled in utilizing Kanban boards to manage tasks and track project progress efficiently.
-
-**Selenium**
-- Capable of automating web application tests using Selenium.
-- Proficient in writing scripts to perform repetitive testing tasks and validating web functionalities.
-
-**SQL**
-- Adept at writing simple SQL queries to validate data integrity and perform backend testing.
-- Familiar with database management and using SQL for effective data validation.
-
-**Browserstack**
-- Skilled in cross-browser testing using Browserstack to ensure consistent functionality across different environments.
-
-**Gherkin + Cucumber**
-- Familiar with writing clear, understandable test scenarios using Gherkin syntax.
-- Experienced in using Cucumber for behavior-driven development (BDD) to enhance collaboration between technical and non-technical team members.
-
-## Courses & Certifications 
-**ISTQB CTFL** Certified Tester Foundation Level - (in progress, scheduled for April 2025)
+**TestAutomationU**
+<br>**Codeless Path to Test Automation** (Path) 
+- <a href="https://testautomationu.applitools.com/certificate/?id=deb0b51a" target="_blank">Setting a Foundation for Successful Test Automation</a>
+- <a href="https://testautomationu.applitools.com/certificate/?id=22e8cb00" target="_blank">The Whole Team Approach to Continuous Testing</a>
+- <a href="https://testautomationu.applitools.com/certificate/?id=2371257c" target="_blank">API Test Automation with Postman</a>
 
 **QA Testing Course** (in Spanish)
 <br>Prof. <a href="https://www.linkedin.com/in/heisonmoreno/" target="_blank">Heison Moreno</a> 
@@ -129,23 +92,16 @@ I have hands-on experience with the following tools, which I use to enhance the 
 - Testing Automation
 - Mobile, Web, & API Testing
 
-**TestAutomationU**
-<br> I'm continuing my studies in test automation! See my certifications and learning paths <a href="https://testautomationu.applitools.com/me.html#jcksnmiles" target="_blank">here</a>!
+<a href="https://www.freecodecamp.org/certification/jcksnmiles/responsive-web-design/">**Responsive Web Design**</a>
+<br>freeCodeCamp
 
-1. **Setting a Foundation for Successful Test Automation** - <a href="https://testautomationu.applitools.com/certificate/?id=deb0b51a" target="_blank">Certificate link</a>
-2. **The Whole Team Approach to Continuous Testing** - <a href="https://testautomationu.applitools.com/certificate/?id=22e8cb00" target="_blank">Certificate link</a>
-3. **API Test Automation with Postman** - (in progress)
-4. **Codeless Test Automation with Selenium IDE** - (in progress)
-
-**Responsive Web Design** 
-<br>freeCodeCamp 
-
-**Fundamentals of Digital Marketing** 
+**[Fundamentals of Digital Marketing](https://github.com/user-attachments/files/21263848/FundamentalsDigitalMarketing.pdf)**
 <br>Google Digital Garage
 
-## Additional Links
+## ADDITIONAL LINKS
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/jcksnmiles" rel="nofollow noreferrer">LinkedIn</a> 
 <br><img src="https://i.sstatic.net/tskMh.png" alt="github"> <a href="https://github.com/jcksnmiles" rel="nofollow noreferrer">GitHub</a>
+<br><img width="14" height="14" alt="icon-color (1)" src="https://github.com/user-attachments/assets/832203ce-a7e9-4d0a-89c2-562a1f6def8b"/> <a href="https://jcksnmiles. carrd.co/" rel="nofollow noreferrer">Caard</a>
 <br>📧 [Email](mailto:jcksnbmiles@gmail.com)
-<br>📄 [CV](https://github.com/user-attachments/files/19763981/JacksonMilesCV.pdf)
+<br>📄 [CV](https://github.com/user-attachments/files/21264182/JacksonMilesCV.pdf)
 
