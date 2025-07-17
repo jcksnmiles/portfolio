@@ -28,12 +28,15 @@ You can download my CV as a PDF [here](https://github.com/user-attachments/files
 **ISTQB CTFL** Certified Tester Foundation Level - (in progress, scheduled for August 2025)
 
 **CodeSignal**
-<br>**Mastering Test Automation with Playwright and TypeScript** (Path)
+<br><a href= "https://codesignal.com/learn/certificates/cmcnh0ny7000mji04c5xtg4w2/course-paths/224">**Mastering Test Automation with Playwright and TypeScript**</a> (Path)
+<br>A 5-course path covering browser automation, complex interactions, test patterns, e-commerce testing, and API integration. 
+
 - [Exploring Playwright and TypeScript Essentials](https://github.com/user-attachments/files/21263783/PlaywrightEssentials.pdf)
 - [Advanced Playwright Techniques and Navigation](https://github.com/user-attachments/files/21263789/AdvancedPlaywright.pdf)
 - [Mastering Test Patterns with Playwright](https://github.com/user-attachments/files/21263796/MasteringTestPatterns.pdf)
 - [Building Comprehensive E-commerce Tests with Playwright](https://github.com/user-attachments/files/21263799/BuildingComprehensiveE-commerceTests.pdf)
-- Bridging Playwright with API Testing
+- [Bridging Playwright with API Testing](https://github.com/user-attachments/files/21301706/BridgingPlaywrightAPI.pdf)
+
 
 **TestAutomationU**
 <br>**Codeless Path to Test Automation** (Path) 
